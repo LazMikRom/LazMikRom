@@ -6,7 +6,7 @@
 
 <br />
 
-Hi, my name is Mike and I'm working as golang developer
+Hi, my name is Mike and I'm golang developer
 
 <br />
 
